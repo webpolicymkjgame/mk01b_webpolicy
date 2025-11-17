@@ -41,9 +41,9 @@ function Header() {
 function HomePage() {
   const apps = [
     {
-      name: 'Currency Converter',
+      name: 'Money Manager',
       image: currency,
-      link: 'com.moneymanager.expense.tracker.budgetplanner'
+      link: 'https://play.google.com/store/apps/details?id=com.moneymanager.expense.tracker.budgetplanner'
     }
   ];
 
